@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/webrtchess/static/css/main.073c9b0a.css",
-    "main.js": "/webrtchess/static/js/main.f93d8bba.js",
+    "main.js": "/webrtchess/static/js/main.98ed3208.js",
     "static/js/787.35ad2cf4.chunk.js": "/webrtchess/static/js/787.35ad2cf4.chunk.js",
-    "static/media/logo.svg": "/webrtchess/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/webrtchess/index.html",
     "main.073c9b0a.css.map": "/webrtchess/static/css/main.073c9b0a.css.map",
-    "main.f93d8bba.js.map": "/webrtchess/static/js/main.f93d8bba.js.map",
+    "main.98ed3208.js.map": "/webrtchess/static/js/main.98ed3208.js.map",
     "787.35ad2cf4.chunk.js.map": "/webrtchess/static/js/787.35ad2cf4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f93d8bba.js"
+    "static/js/main.98ed3208.js"
   ]
 }
