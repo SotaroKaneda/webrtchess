@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/webrtchess/static/css/main.d865e571.css",
-    "main.js": "/webrtchess/static/js/main.e9caa6cf.js",
+    "main.css": "/webrtchess/static/css/main.15ec82d5.css",
+    "main.js": "/webrtchess/static/js/main.306593bd.js",
     "static/js/787.5bb3a1b9.chunk.js": "/webrtchess/static/js/787.5bb3a1b9.chunk.js",
+    "static/media/googleLogo.svg": "/webrtchess/static/media/googleLogo.9aefd664a7f66f6ccec05e42cbf6c6a1.svg",
     "index.html": "/webrtchess/index.html",
-    "main.d865e571.css.map": "/webrtchess/static/css/main.d865e571.css.map",
-    "main.e9caa6cf.js.map": "/webrtchess/static/js/main.e9caa6cf.js.map",
+    "main.15ec82d5.css.map": "/webrtchess/static/css/main.15ec82d5.css.map",
+    "main.306593bd.js.map": "/webrtchess/static/js/main.306593bd.js.map",
     "787.5bb3a1b9.chunk.js.map": "/webrtchess/static/js/787.5bb3a1b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d865e571.css",
-    "static/js/main.e9caa6cf.js"
+    "static/css/main.15ec82d5.css",
+    "static/js/main.306593bd.js"
   ]
 }
